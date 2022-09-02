@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zachnad0
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning about things
-- 💞️ I’m looking to collaborate on nothing much
-- 📫 How to reach me is to not
+- 👀 I’m interested in c# for development of programs, including games, and scripts for Space Engineers.
+- 🌱 I’m currently learning about Unity development.
+- 💞️ I’m looking to collaborate on anything that I don't have a small private team working on, in which they essentially never do anything anyways.
+- 📫 How to reach me is to send free money via the mail.
 
 Uh yea so I'm makin' some games in Godot using GDScript and crap so uh yea.
 C# is the best language, and one cannot prove otherwise, unless you do.
