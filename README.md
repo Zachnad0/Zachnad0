@@ -5,7 +5,7 @@
 - 📫 How to reach me is to send <i>free money</i> via the mail.
 
 I'm an amatuer game crafter, currently working on somethin' that we're not going to reveal *just* yet.
-C# is the best language, and one cannot prove otherwise, unless you do.
+C# is supreme at what it does, and one cannot prove otherwise, unless one does.
 <!---
 Zachnad0/Zachnad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
