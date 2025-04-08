@@ -10,7 +10,8 @@ Am just another *amatuer* and student backend .NET and embedded systems develope
 ## Known languages:
 Ranked by preference (descending).
 <ol>
-<li value="0">C# (By far)</li>
+<li value="0">C#</li>
+<li value="1">Java</li>
 <li type="A" value="B">C++</li>
 <li>XAML, HTML, CSS, and JS</li>
 </ol>
