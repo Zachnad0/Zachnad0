@@ -1,11 +1,11 @@
 ## Profile
 - 👋 Hi, I’m @Zachnad0
-- 👀 I’m interested in the areas of artificial intelligence (specifically neural networks and machine learning), programming embedded systems, and developing methods of combining both.
-- 🌱 I’m currently dealing with C++ (the standard lib naming conventions are still terrible).
-- 💞️ I’m looking to collaborate on the acquisition of US$ (via automated trading software?)
-- 📫 How to reach me is to send *free money* via the mail...
+- 👀 I’m interested in the areas of: digital electronics, embedded systems, firmware, control systems, and mechatronics.
+- 🌱 I’m currently: pursuing a BSc in Electronic / Computer Systems, Computer Science.
+- 💞️ I’m looking to collaborate on: literally anything.
+- 📫 How to reach me is: to send *free money* via the mail...
 
-Am just another *amatuer* and student backend .NET and embedded systems developer.
+Just some random undegraduate.
 
 ## Known languages:
 Ranked by preference (descending).
