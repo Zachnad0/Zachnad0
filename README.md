@@ -7,15 +7,12 @@
 
 Just some random undegraduate.
 
-## Known languages:
-Ranked by preference (descending).
-<ol>
-<li value="0">C#</li>
-<li value="1">Java</li>
-<li type="A" value="B">C++</li>
-<li>XAML, HTML, CSS, and JS</li>
-</ol>
-&nbsp&nbsp 0xFF. Python/GDScript
+## Languages:
+#### Proficient:
+C#, Java, C++, 8051 Assembly, 8051 embedded C,
+Python, HTML, CSS, JS, GDScript
+#### Learning:
+VHDL, SystemVerilog
 
 <!---
 Zachnad0/Zachnad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
