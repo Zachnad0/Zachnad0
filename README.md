@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on: research or random projects.
 - 📫 How to reach me is: directly via FM on VHF or UHF bands, or just my email address that you likely have.
 
-Just some random undegraduate.
+Just some random undergraduate student.
 
 > [!TIP]
 > Feature cat photographs in your schematics to enhance readability.
