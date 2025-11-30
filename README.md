@@ -8,8 +8,8 @@
 Just some random undegraduate.
 
 > [!TIP]
-> **Tip:** Feature cat photographs in your schematics to enhance readability.
-> <img src="cat_i.png" alt="Photograph I" width="300" height="300"/>
+> Feature cat photographs in your schematics to enhance readability.
+> <br><img src="cat_i.png" alt="Photograph I" width="300" height="300"/>
 
 <!-- Redundant information.
 ## Languages:
